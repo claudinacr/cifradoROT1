@@ -1,4 +1,4 @@
-/*Es un cifrado familiar para muchos niños. Su clave 
+﻿/*Es un cifrado familiar para muchos niños. Su clave 
 es sencilla: cada letra del alfabeto es reemplazada con 
 la siguiente letra, por ejemplo la A se reemplaza por 
 la B, la B por la C y así las demás. “ROT1” literalmente 
@@ -69,6 +69,8 @@ var ABC = {A:27,B:28,C:29,D:30,E:31,F:32,G:33,H:34,I:35,
   
 }
 Rot1(frase);
+
+frase de prueba
 
 
 
